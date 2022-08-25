@@ -1,0 +1,5 @@
+f = open("foo.txt", "a",encoding='utf-8')
+f.write("cat dog")
+f.write("cat")
+f.write("cat dog cho")
+f.close()
