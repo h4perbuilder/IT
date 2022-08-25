@@ -1,0 +1,83 @@
+.headerTop{
+    background-color: #0d385a;
+    padding: 5px;
+}
+.headerTop a{
+    color: white;
+    text-decoration: none;
+}
+.iconsize{
+    font-size:20px ;
+    margin-left: 10px;
+}
+.faceb{
+    margin-left: 80px;
+}
+.but{
+    margin-top: 5px;
+}
+.eng{
+    background-color: white;
+    color:burlywood;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #ffffff;
+}
+.rus{
+    background-color: #C1945B;
+    color:white;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #C1945B;
+}
+.headerBottom{
+    background-color: #C1945B;
+    color:white;
+}
+.card-img-top{
+    width: 190px;
+    height: 300px;
+}
+.text-in-img{
+    background-image:url(house.jpg);
+    height: 380px;
+    width: 300px;
+}
+.text-img{
+    color: white;
+    text-align: center;
+    padding-top: 180px;
+}
+.btn{
+    margin-left: 40px;
+    margin-top: 70px;
+    width: 220px;
+}
+.buttonn{
+    border-radius: 5px;
+    height: 40px;
+}
+.bell{
+    height: 180px;
+    width: 180px;
+    padding-right: 100px;
+}
+.text-text{
+    text-align: center;
+}
+footer{
+    background-color: #1259BA;
+}
+.info{
+    color: white;
+    text-decoration: none;
+}
+.info-2{
+    color: white;
+    margin-top: 70px;
+}
+.in-big-photo{
+    background-image: url(house.jpg);
+    width: 100%;
+    height: 400px;
+}

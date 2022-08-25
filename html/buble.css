@@ -1,0 +1,38 @@
+.block-upper{
+    background-color: #F5A961;
+    padding: 15px;
+    margin-top: 60px;
+}
+.block-upper-two{
+    background-color: goldenrod;
+    padding: 15px;
+    margin-top: 60px;
+    width: 500px;
+    height: 60px;
+    color: white;
+}
+.block-upper-two-two{
+    background-color: rgb(0, 119, 255);
+    padding: 15px;
+    margin-top: 60px;
+    width: 500px;
+    height: 60px;
+    color: white;
+}
+.encyc{
+    margin-top: 70px;
+}
+.li>a{
+    text-decoration: none;
+}
+.ab{
+    height: 200px;
+    width: 300px;
+    padding-left: 15px;
+}
+.h4{
+    color: white;
+}
+.text{
+    text-decoration: none;
+}

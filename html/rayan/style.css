@@ -1,0 +1,27 @@
+.headerTop{
+    background-color: #0D385A;
+    padding-top:10px;
+    padding-bottom: 5px;
+}
+.headerTop a{
+    color: white;
+    text-decoration: none;
+}
+.iconsize i{
+    font-size: 24px;
+}
+.rovnHe{
+    margin-top: -10px;
+}
+.eng{
+    background-color: white;
+    color:#C1945B!important
+}
+.rus{
+    background-color: #C1945B;
+    color:white;
+}
+.headerBottom{
+    background-color: #C1945B;
+    color:white;
+}

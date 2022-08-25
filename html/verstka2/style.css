@@ -1,0 +1,16 @@
+header{
+    background-color: #16A085 ;
+}
+.navbar a{
+color: white!important;
+}
+.block-gieta{
+    background-color: #FBE5C8;
+    padding: 13px;
+}
+li>a{
+    text-decoration: none;
+}
+.list-bolezney li{
+    margin-top: 3px;
+}
